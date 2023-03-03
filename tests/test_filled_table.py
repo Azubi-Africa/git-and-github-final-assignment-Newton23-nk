@@ -4,9 +4,9 @@ from tests.test_readme_table import read_table
 
 CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
 empty_json_table = {
-    "Project's Name": {1: "", 2: "", 3: ""},
-    "Description": {1: "", 2: "", 3: ""},
-    "GitHub's Link": {1: "", 2: "", 3: ""},
+    "Project's Name": {1: "Sales_Prediction", 2:"Coffee_Machine ", 3:"Password_Generator"},
+    "Description": {1: "The program predicts sales using the newspaper, radio and tv advertisement ", 2: "The project will produce coffee, using the user specifications", 3: "The program generates passwords for the employees"},
+    "GitHub's Link": {1: "https://github.com/Newton23-nk/Sales-Prediction.git", 2: "https://github.com/Newton23-nk/Coffee-Machine.git", 3: "https://github.com/Newton23-nk/Password_Generator.git"},
 }
 
 

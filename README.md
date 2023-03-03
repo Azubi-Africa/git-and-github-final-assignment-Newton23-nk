@@ -20,9 +20,13 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  -          Sales Prediction   |  - LifeLux Inc, a consumer goods company sells variety products through various retail channels. Over the years, they have invested a lot in television, radio, newspaper advertisement to drive sales and increase brand awareness. The company recently has become concerned about the effectiveness of its advertising spend, as it is becoming difficult to measure the return on investment for each advertising channel. In order to better understand the relationship between advertisement and unit sales, the company has task us to build a model that will effectively predict unit sales based on the amount spent on TV, Radio and newspaper advertisement            | https://github.com/Newton23-nk/Sales-Prediction.git   |
+| 2 |  -       Coffe Machine      |  -          You have been hired! Congratulations. Your first task we have been experiencing issues with our coffee machine. Breakdown and theft. We will need you to build a virtual coffee machine that takes coins process it check the resource available for making the coffee and if all checks are successful, it gives you your coffee . The application should prompt the user to make their coffee choice, prompt the user for the coins to be entered and process it. Check to see if the user has sufficient funds, after that check if there are sufficient resources to make the coffee. The program should keep running until the user shut it down.   | https://github.com/Newton23-nk/Coffee-Machine.git  |
+| 3 |  -        Password_Generator     |  -          Evergarden produce Ltd is setting up a new online platform for its customers to access their accounts and manage their information. 
+
+Manually creating and assigning passwords for each customer would be a tedious and error-prone process with a customer size 1 million. To automate this process, the company has asked you to develop a program that generate customer password.
+
+The customer should specify the count of letters, symbols and numbers they want in their password. The program randomly mix letters, symbol and numbers to make up the password. Store the password and customer name in a dictionary.   | https://github.com/Newton23-nk/Password_Generator.git      |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
